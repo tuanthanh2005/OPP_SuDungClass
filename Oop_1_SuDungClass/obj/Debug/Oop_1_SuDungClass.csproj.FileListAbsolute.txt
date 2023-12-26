@@ -1,0 +1,7 @@
+D:\Git\Dungclass\Oop_1_SuDungClass\bin\Debug\Oop_1_SuDungClass.exe.config
+D:\Git\Dungclass\Oop_1_SuDungClass\bin\Debug\Oop_1_SuDungClass.exe
+D:\Git\Dungclass\Oop_1_SuDungClass\bin\Debug\Oop_1_SuDungClass.pdb
+D:\Git\Dungclass\Oop_1_SuDungClass\obj\Debug\Oop_1_SuDungClass.csproj.AssemblyReference.cache
+D:\Git\Dungclass\Oop_1_SuDungClass\obj\Debug\Oop_1_SuDungClass.csproj.CoreCompileInputs.cache
+D:\Git\Dungclass\Oop_1_SuDungClass\obj\Debug\Oop_1_SuDungClass.exe
+D:\Git\Dungclass\Oop_1_SuDungClass\obj\Debug\Oop_1_SuDungClass.pdb
